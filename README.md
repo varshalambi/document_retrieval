@@ -40,8 +40,8 @@ Performance measured across multiple dimensions:
 
 ### Installation
 ```bash
-git clone https://github.com/username/mistraldocs.git
-cd mistraldocs
+git clone https://github.com/username/document_retrieval.git
+cd document_retrieval
 pip install -e .
 ```
 
